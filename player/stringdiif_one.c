@@ -23,11 +23,11 @@
                 }
 
 
-            if(count>=1){
-                printf("different");
+            if(count==1){
+                printf("yes");
             }
             else{
-                printf("same");
+                printf("no");
             }
             return 0;
             }

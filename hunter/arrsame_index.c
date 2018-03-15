@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-int a[20],b[20],i,j=0,n;
+int a[100000],b[100000],i,j=0,n;
 printf("enter number of elements");
 scanf("%d",&n);
 for(i=0;i<n;i++){
